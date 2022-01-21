@@ -1,0 +1,6 @@
+123456789012/Helena/Direito/Campo Grande
+098765432109/Alice/Medicina/Tres Lagoas
+123409874567/Laura/Ciencia da Computacao/Aquidauana
+029437518357/Miguel/Engenharia/Campo Grande
+012897469234/Arthur/Ciencia da Computacao/Aquidauana
+123123/DSFSDF/FGDGDF/WEWEF
